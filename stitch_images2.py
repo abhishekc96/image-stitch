@@ -102,12 +102,12 @@ def equalize_histogram_color(img):
 def main():
     # Get input set of images
 
-    img1 = cv2.imread('C:\opencv_test\img\im1.JPG')
+    img1 = cv2.imread('img11.png')
     #cv2.imshow('Ip1', img1)
     #cv2.waitKey() & 0xFF
 
 
-    img2 = cv2.imread('C:\opencv_test\img\im2.JPG')
+    img2 = cv2.imread('img22.png')
     #cv2.imshow('Ip2', img2)
     #cv2.waitKey() & 0xFF
 
